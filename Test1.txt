@@ -1,1 +1,2 @@
-Hello, Thsi is my First git file message
+Hello, This is my First git file message
+Hello, this is my second message
